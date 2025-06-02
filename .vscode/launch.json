@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://github.com/FacuMillo35/Base-de-Datos.git",
+            "request": "launch",
+            "url": "https://github.com/FacuMillo35/Base-de-Datos.git"
+        }
+    ]
+}
